@@ -1,4 +1,5 @@
 let userform=document.getElementById("user-form");
+localStrorage.clear();
 
 
 
